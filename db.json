@@ -1,0 +1,16 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Toshiba Satelite"
+    },
+    {
+      "id": 2,
+      "name": "Lenovo ThinkPad 480"
+    },
+    {
+      "id": 3,
+      "name": "Sony Vaio 700"
+    }
+  ]
+}
